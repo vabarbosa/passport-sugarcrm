@@ -1,0 +1,30 @@
+{
+  "name": "passport-sugarcrm",
+  "version": "0.1.0",
+  "description": "SugarCRM authentication strategy for Passport",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vabarbosa/passport-sugarcrm.git"
+  },
+  "keywords": [
+	"SugarCRM",
+	"passportjs"
+  ],
+  "dependencies": {
+	"passport-oauth": "~0.1.2",
+    "lodash": "~3.9.3",
+    "url": "",
+	"util": ""
+  },
+  "author": "va@us.ibm.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vabarbosa/passport-sugarcrm/issues"
+  },
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/vabarbosa/passport-sugarcrm#readme"
+}
