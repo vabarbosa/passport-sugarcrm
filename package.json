@@ -25,6 +25,5 @@
   "bugs": {
     "url": "https://github.com/vabarbosa/passport-sugarcrm/issues"
   },
-  "readmeFilename": "README.md",
-  "homepage": "https://github.com/vabarbosa/passport-sugarcrm#readme"
+  "readmeFilename": "README.md"
 }

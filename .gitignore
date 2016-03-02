@@ -8,3 +8,5 @@
 node_modules
 
 .externalToolBuilders
+
+.DS_Store
